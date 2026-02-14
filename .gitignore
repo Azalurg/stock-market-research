@@ -201,3 +201,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local
+
+gem/
+gpw/
+stock_gen/
+fib.py

@@ -208,3 +208,6 @@ gem/
 gpw/
 stock_gen/
 fib.py
+
+# Images
+*.png

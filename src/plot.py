@@ -31,7 +31,17 @@ def plot(
     ax.plot(plot_days, plot_values, label="Portfolio Value", color="aqua", linewidth=2)
     ax.set_title(title, fontsize=20, color="white")
     if stats:
-        stats_text = f"CAGR: {stats['cagr [%]']}%\nSharpe: {stats['sharpe_ratio']}\nMax DD: {stats['max_drawdown [%]']}%\nWin Rate: {stats['win_rate']}%"
+        stats_lines = [
+            f"CAGR: {stats['cagr [%]']}%",
+            f"Sharpe: {stats['sharpe_ratio']}",
+            f"Max DD: {stats['max_drawdown [%]']}%",
+            f"Win Rate: {stats['win_rate']}%",
+        ]
+        if "transaction_costs_paid" in stats:
+            stats_lines.append(f"Costs: {stats['transaction_costs_paid']}")
+        if "trades_executed" in stats:
+            stats_lines.append(f"Trades: {stats['trades_executed']}")
+        stats_text = "\n".join(stats_lines)
         ax.text(
             0.02,
             0.9,

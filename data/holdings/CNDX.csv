@@ -1,0 +1,109 @@
+ISIN,Name,Sector,Asset Class,Weight,Country,Currency
+,NVIDIA CORP,Information Technology,Equity,0.0886,United States,USD
+,APPLE INC,Information Technology,Equity,0.0713,United States,USD
+,MICROSOFT CORP,Information Technology,Equity,0.0575,United States,USD
+,AMAZON COM INC,Consumer Discretionary,Equity,0.049,United States,USD
+,META PLATFORMS INC CLASS A,Communication Services,Equity,0.036,United States,USD
+,ALPHABET INC CLASS A,Communication Services,Equity,0.0353,United States,USD
+,TESLA INC,Consumer Discretionary,Equity,0.0352,United States,USD
+,BROADCOM INC,Information Technology,Equity,0.0348,United States,USD
+,ALPHABET INC CLASS C,Communication Services,Equity,0.0328,United States,USD
+,WALMART INC,Consumer Staples,Equity,0.0319,United States,USD
+,MICRON TECHNOLOGY INC,Information Technology,Equity,0.0255,United States,USD
+,ADVANCED MICRO DEVICES INC,Information Technology,Equity,0.0234,United States,USD
+,COSTCO WHOLESALE CORP,Consumer Staples,Equity,0.0225,United States,USD
+,NETFLIX INC,Communication Services,Equity,0.0197,United States,USD
+,CISCO SYSTEMS INC,Information Technology,Equity,0.0179,United States,USD
+,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,Equity,0.0169,United States,USD
+,INTEL CORPORATION CORP,Information Technology,Equity,0.0167,United States,USD
+,LAM RESEARCH CORP,Information Technology,Equity,0.0163,United States,USD
+,APPLIED MATERIAL INC,Information Technology,Equity,0.0158,United States,USD
+,KLA CORP,Information Technology,Equity,0.0118,United States,USD
+,LINDE PLC,Materials,Equity,0.0116,United States,USD
+,T MOBILE US INC,Communication Services,Equity,0.0108,United States,USD
+,PEPSICO INC,Consumer Staples,Equity,0.0107,United States,USD
+,TEXAS INSTRUMENT INC,Information Technology,Equity,0.0107,United States,USD
+,AMGEN INC,Health Care,Equity,0.0094,United States,USD
+,ANALOG DEVICES INC,Information Technology,Equity,0.0092,United States,USD
+,GILEAD SCIENCES INC,Health Care,Equity,0.0083,United States,USD
+,SHOPIFY SUBORDINATE VOTING INC CLA,Information Technology,Equity,0.0081,Canada,USD
+,INTUITIVE SURGICAL INC,Health Care,Equity,0.0081,United States,USD
+,BOOKING HOLDINGS INC,Consumer Discretionary,Equity,0.0076,United States,USD
+,APPLOVIN CORP CLASS A,Information Technology,Equity,0.0073,United States,USD
+,QUALCOMM INC,Information Technology,Equity,0.0073,United States,USD
+,PALO ALTO NETWORKS INC,Information Technology,Equity,0.0072,United States,USD
+,HONEYWELL INTERNATIONAL INC,Industrials,Equity,0.0071,United States,USD
+,SANDISK CORP,Information Technology,Equity,0.0067,United States,USD
+,MARVELL TECHNOLOGY INC,Information Technology,Equity,0.0066,United States,USD
+,WESTERN DIGITAL CORP,Information Technology,Equity,0.0066,United States,USD
+,ASML HOLDING ADR REPRESENTING NV,Information Technology,Equity,0.0065,Netherlands,USD
+,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,Equity,0.0062,United States,USD
+,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,Equity,0.0057,United States,USD
+,STARBUCKS CORP,Consumer Discretionary,Equity,0.0056,United States,USD
+,INTUIT INC,Information Technology,Equity,0.0056,United States,USD
+,VERTEX PHARMACEUTICALS INC,Health Care,Equity,0.0056,United States,USD
+,COMCAST CORP CLASS A,Communication Services,Equity,0.0052,United States,USD
+,ADOBE INC,Information Technology,Equity,0.0051,United States,USD
+,CONSTELLATION ENERGY CORP,Utilities,Equity,0.0051,United States,USD
+,MARRIOTT INTERNATIONAL INC CLASS A,Consumer Discretionary,Equity,0.005,United States,USD
+,MERCADOLIBRE INC,Consumer Discretionary,Equity,0.0048,United States,USD
+,CADENCE DESIGN SYSTEMS INC,Information Technology,Equity,0.0045,United States,USD
+,SYNOPSYS INC,Information Technology,Equity,0.0045,United States,USD
+,AUTOMATIC DATA PROCESSING INC,Industrials,Equity,0.0041,United States,USD
+,CSX CORP,Industrials,Equity,0.0041,United States,USD
+,OREILLY AUTOMOTIVE INC,Consumer Discretionary,Equity,0.0039,United States,USD
+,REGENERON PHARMACEUTICALS INC,Health Care,Equity,0.0039,United States,USD
+,DOORDASH INC CLASS A,Consumer Discretionary,Equity,0.0038,United States,USD
+,MONOLITHIC POWER SYSTEMS INC,Information Technology,Equity,0.0038,United States,USD
+,MONSTER BEVERAGE CORP,Consumer Staples,Equity,0.0037,United States,USD
+,ROSS STORES INC,Consumer Discretionary,Equity,0.0037,United States,USD
+,AMERICAN ELECTRIC POWER INC,Utilities,Equity,0.0036,United States,USD
+,MONDELEZ INTERNATIONAL INC CLASS A,Consumer Staples,Equity,0.0036,United States,USD
+,CINTAS CORP,Industrials,Equity,0.0036,United States,USD
+,WARNER BROS. DISCOVERY INC SERIES,Communication Services,Equity,0.0034,United States,USD
+,PACCAR INC,Industrials,Equity,0.0033,United States,USD
+,PDD HOLDINGS ADS INC,Consumer Discretionary,Equity,0.0033,China,USD
+,FORTINET INC,Information Technology,Equity,0.0032,United States,USD
+,AIRBNB INC CLASS A,Consumer Discretionary,Equity,0.0031,United States,USD
+,BAKER HUGHES CLASS A,Energy,Equity,0.003,United States,USD
+,NXP SEMICONDUCTORS NV,Information Technology,Equity,0.0028,United States,USD
+,DIAMONDBACK ENERGY INC,Energy,Equity,0.0027,United States,USD
+,FASTENAL,Industrials,Equity,0.0026,United States,USD
+,STRATEGY INC CLASS A,Information Technology,Equity,0.0026,United States,USD
+,AUTODESK INC,Information Technology,Equity,0.0026,United States,USD
+,ELECTRONIC ARTS INC,Communication Services,Equity,0.0026,United States,USD
+,FERROVIAL,Industrials,Equity,0.0025,Spain,USD
+,XCEL ENERGY INC,Utilities,Equity,0.0025,United States,USD
+,EXELON CORP,Utilities,Equity,0.0024,United States,USD
+,PAYPAL HOLDINGS INC,Financials,Equity,0.0024,United States,USD
+,OLD DOMINION FREIGHT LINE INC,Industrials,Equity,0.0023,United States,USD
+,IDEXX LABORATORIES INC,Health Care,Equity,0.0023,United States,USD
+,COCA COLA EUROPACIFIC PARTNERS PLC,Consumer Staples,Equity,0.0022,Netherlands,USD
+,THOMSON REUTERS CORP,Industrials,Equity,0.0022,Canada,USD
+,MICROCHIP TECHNOLOGY INC,Information Technology,Equity,0.0022,United States,USD
+,DATADOG INC CLASS A,Information Technology,Equity,0.0022,United States,USD
+,ALNYLAM PHARMACEUTICALS INC,Health Care,Equity,0.0021,United States,USD
+,TAKE TWO INTERACTIVE SOFTWARE INC,Communication Services,Equity,0.002,United States,USD
+,ROPER TECHNOLOGIES INC,Information Technology,Equity,0.0019,United States,USD
+,KEURIG DR PEPPER INC,Consumer Staples,Equity,0.0018,United States,USD
+,PAYCHEX INC,Industrials,Equity,0.0017,United States,USD
+,GE HEALTHCARE TECHNOLOGIES INC,Health Care,Equity,0.0016,United States,USD
+,AXON ENTERPRISE INC,Industrials,Equity,0.0016,United States,USD
+,COPART INC,Industrials,Equity,0.0016,United States,USD
+,CHARTER COMMUNICATIONS INC CLASS A,Communication Services,Equity,0.0015,United States,USD
+,INSMED INC,Health Care,Equity,0.0015,United States,USD
+,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,Equity,0.0014,United States,USD
+,WORKDAY INC CLASS A,Information Technology,Equity,0.0014,United States,USD
+,KRAFT HEINZ,Consumer Staples,Equity,0.0013,United States,USD
+,VERISK ANALYTICS INC,Industrials,Equity,0.0012,United States,USD
+,DEXCOM INC,Health Care,Equity,0.0012,United States,USD
+,ARM HOLDINGS AMERICAN DEPOSITARY S,Information Technology,Equity,0.0012,United Kingdom,USD
+,ZSCALER INC,Information Technology,Equity,0.0011,United States,USD
+,USD CASH,Cash/Derivatives,Cash,0.0008,United States,USD
+,COSTAR GROUP INC,Real Estate,Equity,0.0008,United States,USD
+,EUR CASH,Cash/Derivatives,Cash,0.0003,European Union,EUR
+,CASH COLLATERAL USD MLIFT,Cash/Derivatives,Cash Collateral and Margins,0.0001,United States,USD
+,GBP CASH,Cash/Derivatives,Cash,0,United Kingdom,GBP
+,CAD CASH,Cash/Derivatives,Cash,0,Canada,CAD
+,USD/EUR,Cash/Derivatives,FX,0,European Union,EUR
+,NASDAQ 100 E-MINI JUN 26,Cash/Derivatives,Futures,0,-,USD
